@@ -8,7 +8,7 @@ function App() {
     <button>BUTTON</button>
        <Title></Title>
   </div>
-  );
+  ); 
 
 }
 
